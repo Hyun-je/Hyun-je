@@ -1,4 +1,4 @@
-![macbook](https://user-images.githubusercontent.com/7419790/120601129-8752a680-c484-11eb-806d-e3d148501c4c.png)
+![macbook_2](https://user-images.githubusercontent.com/7419790/120601452-e9aba700-c484-11eb-8ac6-9c4470eedf98.png)
 
 
 ### [`✉️ e-mail : { bigae2@gmail.com }`](bigae2@gmail.com)
