@@ -1,9 +1,9 @@
 ![macbook_2](https://user-images.githubusercontent.com/7419790/120601452-e9aba700-c484-11eb-8ac6-9c4470eedf98.png)
 
 
-### [`✉️ e-mail : { bigae2@gmail.com }`](bigae2@gmail.com)
-### [`✏️ Blog : { https://hyun-je.github.io }`](https://hyun-je.github.io)
-### [`📃 portfolio : { https://hyun-je.github.io/Portfolio }`](https://hyun-je.github.io/Portfolio)
+#### [`✉️ e-mail : { bigae2@gmail.com }`](bigae2@gmail.com)
+#### [`✏️ Blog : { https://hyun-je.github.io }`](https://hyun-je.github.io)
+#### [`📃 portfolio : { https://hyun-je.github.io/Portfolio }`](https://hyun-je.github.io/Portfolio)
 <br>
 
 <!--
