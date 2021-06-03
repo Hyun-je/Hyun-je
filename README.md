@@ -2,7 +2,7 @@
 
 
 #### [`✉️ e-mail : { bigae2@gmail.com }`](bigae2@gmail.com)
-#### [`✏️ Blog : { https://hyun-je.github.io }`](https://hyun-je.github.io)
+#### [`✏️ blog : { https://hyun-je.github.io }`](https://hyun-je.github.io)
 #### [`📃 portfolio : { https://hyun-je.github.io/Portfolio }`](https://hyun-je.github.io/Portfolio)
 <br>
 
