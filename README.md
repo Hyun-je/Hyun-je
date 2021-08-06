@@ -1,4 +1,4 @@
-![github](https://user-images.githubusercontent.com/7419790/128472157-f7515dc7-131c-4a62-a8af-85c6b3551fe9.jpg)
+![github](https://user-images.githubusercontent.com/7419790/128473324-287ef123-910c-4356-8f50-56b232676aad.gif)
 
 
 #### [`✉️ e-mail : { bigae2@gmail.com }`](bigae2@gmail.com)
